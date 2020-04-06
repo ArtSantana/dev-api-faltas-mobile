@@ -17,6 +17,13 @@ router.post('/', (req, res) => {
     maxFaltas: req.body.maxFaltas,
     faltas: req.body.faltas,
   })
+  
+  res.sendStatus(201);
+})
+
+router.delete('/', (req, res) => {
+  db.remove({_id: req.body._id});
+  db.loadDatabase();
 
   res.sendStatus(201);
 })

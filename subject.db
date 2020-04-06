@@ -1,8 +1,5 @@
 {"subject":"Banco","teacher":"Luciana","maxFaltas":"20","faltas":"2","_id":"5SWPOXDeWWy1gbSn"}
 {"id":1,"subject":"Redes","teacher":"Rodolfo","maxFaltas":20,"faltas":2,"_id":"GsfApmZ0OPb1fDRi"}
-{"subject":"Teste","teacher":"Teste","maxFaltas":"4","faltas":"0","_id":"JZ1it1lNGq2xP7gN"}
 {"id":2,"subject":"Data structure","teacher":"Accorsi","maxFaltas":20,"faltas":0,"_id":"LvtU1i0TQoKEcE7N"}
 {"id":3,"subject":"Modelagem de Software","teacher":"Adriana","maxFaltas":20,"faltas":4,"_id":"WRciuqxjn5OJJFbg"}
-{"subject":"Teste 2","teacher":"Mmmmm","maxFaltas":"3","faltas":"0","_id":"iHtHY9NY3LBiuOPF"}
-{"subject":"Kkkk","teacher":"Llllll","maxFaltas":"4","faltas":"0","_id":"VsirC6DQWWeQR6iB"}
 {"subject":"OOP","teacher":"Flávio","maxFaltas":"20","faltas":"4","_id":"gFVPvuBbpWflfIC8"}
